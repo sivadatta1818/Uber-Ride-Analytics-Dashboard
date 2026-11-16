@@ -67,32 +67,28 @@ Analyzes vehicle performance and booking distribution across different vehicle c
 - Top Drop Locations
 - Booking Trends by Time Slot
 - Location-wise Booking Performance
-
 ## 📷 Dashboard Screenshots
 
 ### Home Dashboard
-
 ![Home Dashboard](Screenshots/dashboard-home.png)
 
 ### Overview Dashboard
-
 ![Overview Dashboard](Screenshots/dashboard-overview.png)
 
 ### Vehicle Analysis
-
 ![Vehicle Dashboard](Screenshots/dashboard-vehicle.png)
 
 ### Revenue Analysis
-
 ![Revenue Dashboard](Screenshots/dashboard-revenue.png)
 
 ### Rider Analysis
-
 ![Rider Dashboard](Screenshots/dashboard-rider.png)
 
 ### Location Analysis
-
 ![Location Dashboard](Screenshots/dashboard-location.png)
+
+
+
 
 ## Key Performance Indicators (KPIs)
 
