@@ -70,22 +70,22 @@ Analyzes vehicle performance and booking distribution across different vehicle c
 ## 📷 Dashboard Screenshots
 
 ### Home Dashboard
-![Home Dashboard](Screenshots/dashboard-home.png)
+![Home Dashboard](dashboard-home.png)
 
 ### Overview Dashboard
-![Overview Dashboard](Screenshots/dashboard-overview.png)
+![Overview Dashboard](dashboard-overview.png)
 
 ### Vehicle Analysis
-![Vehicle Dashboard](Screenshots/dashboard-vehicle.png)
+![Vehicle Dashboard](dashboard-vehicle.png)
 
 ### Revenue Analysis
-![Revenue Dashboard](Screenshots/dashboard-revenue.png)
+![Revenue Dashboard](dashboard-revenue.png)
 
 ### Rider Analysis
-![Rider Dashboard](Screenshots/dashboard-rider.png)
+![Rider Dashboard](dashboard-rider.png)
 
 ### Location Analysis
-![Location Dashboard](Screenshots/dashboard-location.png)
+![Location Dashboard](dashboard-location.png)
 
 
 
